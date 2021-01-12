@@ -26,3 +26,36 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Jared-James&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Jared-James/github-readme-stats)
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+🌆 Daytime    86 commits     ██████░░░░░░░░░░░░░░░░░░░   25.83% 
+🌃 Evening    165 commits    ████████████░░░░░░░░░░░░░   49.55% 
+🌙 Night      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
+Tuesday      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.58% 
+Wednesday    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+Friday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
+Saturday     65 commits     █████░░░░░░░░░░░░░░░░░░░░   21.45% 
+Sunday       82 commits     ██████░░░░░░░░░░░░░░░░░░░   27.06%
+
+```
+
+
+
+<!--END_SECTION:waka-->
