@@ -1,6 +1,6 @@
 ### Hi there, I'm Jared
 
-## I'm a Developer, Family Man & Life Long Leaner!
+## I'm a Developer, Family Man & Life Long Learner!
 
 
 - 🌱 I’m currently learning everything 🤣
