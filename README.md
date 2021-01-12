@@ -65,8 +65,7 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 
 ---
 
-### Don't judge 🤣🤣
-
+### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-nu-five.vercel.app/api/spotify)](https://open.spotify.com/user/12160389339)
 
