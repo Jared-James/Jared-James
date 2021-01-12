@@ -66,3 +66,6 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 ---
 
 ### Don't judge 🤣🤣
+
+[<img src="https://novatorem-sigma-nine.vercel.app/api/spotify-playing" width="350" />]
+
