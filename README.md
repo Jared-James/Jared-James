@@ -73,5 +73,5 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/source.gif" />
 
-</div>
 
+</div>
