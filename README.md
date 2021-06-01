@@ -61,17 +61,4 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 
 
 
-<!--END_SECTION:waka-->
-
----
-<div align="center">
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-nu-five.vercel.app/api/spotify)](https://open.spotify.com/user/12160389339)
-
----
-
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/source.gif" />
-
-
 </div>
