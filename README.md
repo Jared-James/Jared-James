@@ -1,5 +1,7 @@
 ### Hi there, I'm Jared
 
+Full Stack JavaScript & React Developer
+
 Head over to [jaredjames.io](https://www.jaredjames.io/)
 
 
