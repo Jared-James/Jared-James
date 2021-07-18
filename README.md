@@ -1,8 +1,6 @@
 ### Hi there, I'm Jared
 
-
-## See my websites
-### jaredjames.io
+Head over to [jaredjames.io](https://www.jaredjames.io/)
 
 
 ## I'm a Developer, Family Man & Life Long Learner!
