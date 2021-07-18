@@ -1,11 +1,9 @@
 ### Hi there, I'm Jared
 
----
 
 ## See my websites
 ### jaredjames.io
 
----
 
 ## I'm a Developer, Family Man & Life Long Learner!
 - 🌱 Currently contracted building a crypto game
