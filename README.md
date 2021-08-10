@@ -31,7 +31,8 @@ My Stack consits of
 
 ---
 
-[![Top Langs](https://github-readme-stats-three-gamma.vercel.app/api/top-langs/?username=Jared-James&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Jared-James/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-James)](https://github.com/Jared-James/github-readme-stats)
+
 
 ---
 </div>
