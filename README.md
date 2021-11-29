@@ -4,7 +4,7 @@ Believer of the craftsman philosophy & really into productivity & I also play go
 
 
 My Stack consits of
- JavaScript | React | Gatsby | nextjs | nestjs | Typescript | node/Express/nest | Jest | Mongodb | Sass/scss/RFC/modules | redux | hooks/context 
+ JavaScript | React | Gatsby | nextjs | nestjs | Typescript | node/Express/nest | Jest | Mongodb | Sass/RFC/modules | redux | hooks/context 
 
 I've also started to learn Solidity.
 
