@@ -6,12 +6,7 @@ Head over to [jaredjames.io](https://www.jaredjames.io/)
 </br>
 or here [LinkedIn](https://www.linkedin.com/in/jaredjames123/)
 
-I'm a believer of the craftsman philosophy - I had found this term while reading a book given to me by a friend. I had already started my journey into software development, I was finding it a good challenge, as well as finding it incredibly rewarding. The concept dawned on me, I wanted to be good, not just good, but great. The feeling of working towards mastery is unparalleled to any other internal feeling I’ve sought after.
-
-I'm also really into productivity - seeing not how much I can get done in a day but seeing what the value of what I can get done in a day is. I'll write down where I think I lose time, where I spend too much time & try and craft a good balance, honestly, I really enjoy this.
-
-I also play golf, that's like my ultimate de-stress. It's also something you can get better at by practicing & the sport does not play favourites, it's a direct correlation between good mental and physical capabilities that can both be worked on! - seems to be a trend here, how trendy.
-
+believer of the craftsman philosophy & also really into productivity & I also play golf,
 
 
 My Stack consits of
