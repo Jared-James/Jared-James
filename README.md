@@ -12,10 +12,12 @@ I'm also really into productivity - seeing not how much I can get done in a day 
 
 I also play golf, that's like my ultimate de-stress. It's also something you can get better at by practicing & the sport does not play favourites, it's a direct correlation between good mental and physical capabilities that can both be worked on! - seems to be a trend here, how trendy.
 
-Most of all, I want to connect with people who want to share their journey, whether that be at the start or the end - you can learn so much from what has already come and what is to be - if you have the right mind set. So honestly, feel free to contact me – ask me any questions; it’s a goal of mine to be more outgoing!
+
 
 My Stack consits of
- JavaScript | React | Gatsby | nextjs | nestjs | Typescript | node/Express | Jest | Mongodb | Sass/scss/RFC/modules | redux | hooks/context & more... honestly it changes everyday..
+ JavaScript | React | Gatsby | nextjs | nestjs | Typescript | node/Express/nest | Jest | Mongodb | Sass/scss/RFC/modules | redux | hooks/context 
+
+I've also started to learn Solidity
 
 <p align="center">
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
