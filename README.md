@@ -1,6 +1,6 @@
 Full Stack JavaScript & React Developer
 
-Believer of the craftsman philosophy & also really into productivity & I also play golf.
+Believer of the craftsman philosophy & really into productivity & I also play golf.
 
 
 My Stack consits of
