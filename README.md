@@ -2,10 +2,9 @@ Full Stack JavaScript & React Developer
 
 Believer of the Craftsman Philosophy & really into productivity & I also play golf.
 
-
-My Stack consits of
+My Stack consists of
 </br>
- JavaScript | Typescript | React | Redux | Gatsby | Nextjs| Node | Express | Nest | Mongodb | Sass/RFC/Modules |Jest & Cypress |
+ JavaScript | Typescript | React | Redux | Gatsby | Nextjs | Node | Express | Nest | Mongodb | Sass/RFC/Modules | Jest & Cypress |
 
 I've also started to learn Solidity.
 
@@ -22,5 +21,4 @@ Head over to [jaredjames.io](https://www.jaredjames.io/) || [LinkedIn](https://w
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 </br>
-
 </div>
