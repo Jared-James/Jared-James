@@ -6,7 +6,7 @@ Head over to [jaredjames.io](https://www.jaredjames.io/)
 </br>
 or here [LinkedIn](https://www.linkedin.com/in/jaredjames123/)
 
-believer of the craftsman philosophy & also really into productivity & I also play golf,
+Believer of the craftsman philosophy & also really into productivity & I also play golf,
 
 
 My Stack consits of
