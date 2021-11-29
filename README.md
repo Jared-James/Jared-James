@@ -26,10 +26,4 @@ I've also started to learn Solidity
 </p>
 </br>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-James)](https://github.com/Jared-James/github-readme-stats)
-
-
----
 </div>
