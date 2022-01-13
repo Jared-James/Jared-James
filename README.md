@@ -1,6 +1,6 @@
 Full Stack JavaScript & React Developer
 
-Believer of the Craftsman Philosophy & really into productivity & I also play golf.
+Believer of the Craftsman Philosophy & really into productivity.
 
 Currently working on a deFi gaming platform. https://www.busta.gg/
 
