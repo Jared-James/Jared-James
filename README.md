@@ -1,6 +1,3 @@
-** Work in progress 
-
-
 Full Stack JavaScript & React Developer
 
 Believer of the Craftsman Philosophy & really into productivity & I also play golf.
