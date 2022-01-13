@@ -6,7 +6,7 @@ My Stack consists of
 </br>
  JavaScript | Typescript | React | Redux | Gatsby | Nextjs | Node | Express | Nest | Mongodb | Sass/RFC/Modules | Jest & Cypress |
 
-I've also started to learn Solidity.
+<3 Solidity.
 
 Head over to [jaredjames.io](https://www.jaredjames.io/) || [LinkedIn](https://www.linkedin.com/in/jaredjames123/)
 
