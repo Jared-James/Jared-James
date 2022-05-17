@@ -15,6 +15,4 @@ Feel free to take a look at my public repositories. Most of my work is private, 
 
 Head over to [jaredjames.io](https://www.jaredjames.io/) || [LinkedIn](https://www.linkedin.com/in/jaredjames123/)
 
-JavaScript | Typescript | React | Redux | Gatsby | Nextjs | Node | Express | Nest | Mongodb | Sass/RFC/Modules | Jest & Cypress | Solidity
-
 </div>
