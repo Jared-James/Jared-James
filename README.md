@@ -13,6 +13,6 @@ Currently working on: Cascade, Private Debt Financing Management Software.
 
 Feel free to take a look at my public repositories. Most of my work is private, if there is a project you would like to see, get in touch so I can share it with you!
 
-Head over to [jaredjames.io](https://www.jaredjames.io/) || [LinkedIn](https://www.linkedin.com/in/jaredjames123/)
+(Site is currently down over my hosting platform trying to charge me $150, will be back online once the grace period is over :D )Head over to [jaredjames.io](https://www.jaredjames.io/) || [LinkedIn](https://www.linkedin.com/in/jaredjames123/)
 
 </div>
