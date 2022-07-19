@@ -9,7 +9,7 @@ I work hard to bridge the gap between software engineer and client, creating a h
 
 Currently working on: Cascade, Private Debt Financing Management Software.
 
-[FINISHED] - a deFi gaming platform. https://www.busta.gg/
+deFi gaming platform. https://www.busta.gg/
 
 Feel free to take a look at my public repositories. Most of my work is private, if there is a project you would like to see, get in touch so I can share it with you!
 
